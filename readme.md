@@ -43,6 +43,11 @@ Além dos requisitos levantados acima, iremos avaliar os seguintes critérios:
  - testes automatizados
 
  ## RESULTADO
+
+ ### Home
 ![alt text](public/img/image.png)
+
+## Detalhes
+![alt text](public/img/image2.png)
 
 
