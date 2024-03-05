@@ -42,3 +42,7 @@ Além dos requisitos levantados acima, iremos avaliar os seguintes critérios:
  - conhecimento de clean archtecture
  - testes automatizados
 
+ ## RESULTADO
+![alt text](public/img/image.png)
+
+
